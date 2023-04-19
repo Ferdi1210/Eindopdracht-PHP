@@ -88,6 +88,8 @@ else
       <a href="<?= ROOTURL; ?>?module=home">Home</a> 
       <a href="<?= ROOTURL; ?>?module=contact">Contact</a>
       <a href="<?= ROOTURL; ?>?module=teams">Teams</a>
+      <a href="<?= ROOTURL; ?>?module=teams">Teams</a>
+
   </div>
 
   </body>
